@@ -1,4 +1,7 @@
-### Olá! Meu nome é Bruno Andrade
+### Hi to everyone! My name is Bruno Andrade, and i'm a software engineer student seeking to acquire knowledge in programming languages!
+<div>
+<img align="center" alt="Bruan-PC" height="30" width="40"src="https://github.com/brunameloo/ReadMeIcons/blob/fc239c04a29f136cd3b455a6d5ddc856505ee957/responsive%20design.png">
+</div>
 ##
 <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruan05&show_icons=true&theme=dracula#count_private" />
@@ -15,6 +18,7 @@
   <!-- <img align="center" alt="Bruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Bruan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,git)](https://skills.thijs.gg)
 </div>
 
 ##
