@@ -3,16 +3,22 @@
 <img align="center" alt="Bruan-PC" height="50" width="60" src="https://github.com/brunameloo/ReadMeIcons/blob/fc239c04a29f136cd3b455a6d5ddc856505ee957/responsive%20design.png">
 <!-- <height="30" width="40"> -->
 </div>
-##
+
+## 
+
 <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruan05&show_icons=true&theme=dark#count_private" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruan05&layout=compact&theme=dark#count_private"/>
 </div>
-##
+
+## 
+
 <div>
  <img align="center" alt="My-Skills" src="https://skills.thijs.gg/icons?i=html,css,js,c,py,git)](https://skills.thijs.gg)">
 </div>
-##
+
+## 
+
 <div> 
 <!--   <a href="https://www.youtube.com/channel/zzzzzzzzzzzz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/bruno.andrade_0505/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
