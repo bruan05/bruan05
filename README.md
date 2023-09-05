@@ -22,6 +22,7 @@
 ##
 <div>
  <img align="center" alt="My-Skills" src="https://skills.thijs.gg/icons?i=js,html,css,c,git)](https://skills.thijs.gg">
+ <img align="center" alt="My-Skills" src="[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,git)](https://skills.thijs.gg)">
   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,git)](https://skills.thijs.gg)
 </div>
 ##
