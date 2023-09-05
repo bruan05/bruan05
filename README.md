@@ -1,6 +1,6 @@
 ### Hi to everyone! My name is Bruno Andrade, and i'm a software engineer student seeking to acquire knowledge in programming languages!
 <div>
-<img align="center" alt="Bruan-PC" src="https://github.com/brunameloo/ReadMeIcons/blob/fc239c04a29f136cd3b455a6d5ddc856505ee957/responsive%20design.png">
+<img align="center" alt="Bruan-PC" height="50" width="60" src="https://github.com/brunameloo/ReadMeIcons/blob/fc239c04a29f136cd3b455a6d5ddc856505ee957/responsive%20design.png">
 <!-- <height="30" width="40"> -->
 </div>
 ##
